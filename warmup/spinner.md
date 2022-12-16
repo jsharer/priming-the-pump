@@ -33,6 +33,7 @@ layout: default
  <tr>
   <td height=8></td>
  </tr>
+</table>
  <tr>
   <td height=440 align=center valign=top><iframe src="https://wheelofnames.com/2ud-zvc" width="100%" height="440"></iframe>Interval/Range</td>
   <td></td>
