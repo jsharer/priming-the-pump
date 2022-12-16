@@ -62,10 +62,11 @@ author:
   bio    : "Composer, pianist, agile coach, lifelong learner."
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-square-youtube"
       url: "https://www.youtube.com/@primingthepump"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      #icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://twitter.com/"
  #   - label: "GitHub"
  #     icon: "fab fa-fw fa-github"
